@@ -17,13 +17,9 @@ This Power BI dashboard provides key insights into the **hospitality industry**,
 - **DAX** (Data Analysis Expressions for calculations)
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://app.powerbi.com/view?r=eyJrIjoiNmRjNjkyMGUtNDcxYi00ZTVmLWI3NjgtOGI0ZTcyY2IzMTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))  
+!(https://app.powerbi.com/view?r=eyJrIjoiNmRjNjkyMGUtNDcxYi00ZTVmLWI3NjgtOGI0ZTcyY2IzMTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))  
 *(Replace with your actual image link)*
 
-## 📂 Files in Repository
-- `dashboard.pbix` → Power BI File
-- `data.xlsx` → Raw Data Source
-- `README.md` → This Documentation
 
 Acknowledgments
 Special thanks to Codebasics for inspiration and guidance on Power BI projects.
